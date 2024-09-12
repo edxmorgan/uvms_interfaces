@@ -1,0 +1,2 @@
+std_msgs/Float32MultiArray input
+string command_type
