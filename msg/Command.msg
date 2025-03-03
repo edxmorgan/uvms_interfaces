@@ -2,4 +2,4 @@ std_msgs/Float32MultiArray force
 std_msgs/Float32MultiArray acceleration
 std_msgs/Float32MultiArray twist
 std_msgs/Float32MultiArray pose
-string command_type
+string[] command_type
